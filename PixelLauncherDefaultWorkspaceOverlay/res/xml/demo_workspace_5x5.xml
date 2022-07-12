@@ -12,7 +12,7 @@
     <favorite
         launcher:className="com.android.camera.CameraLauncher"
         launcher:container="-101"
-        launcher:packageName="org.codeaurora.snapcam"
+        launcher:packageName="com.android.camera2"
         launcher:screen="1"
         launcher:x="1"
         launcher:y="0" />

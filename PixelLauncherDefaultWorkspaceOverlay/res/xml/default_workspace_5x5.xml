@@ -40,7 +40,7 @@
         launcher:y="0">
         <favorite
             launcher:className="com.android.camera.CameraLauncher"
-            launcher:packageName="org.codeaurora.snapcam" />
+            launcher:packageName="com.android.camera2" />
        
         <favorite
             launcher:uri="\#Intent;action=android.media.action.STILL_IMAGE_CAMERA;end" />
